@@ -15,6 +15,9 @@ const BarraSuperior = () => {
         <Link className="opacity-60" href="/">
           Experiências
         </Link>
+        <Link className="opacity-60" href="/">
+          Ofertas
+        </Link>
       </div>
 
       <BotaoIcone
